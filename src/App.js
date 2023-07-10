@@ -112,7 +112,6 @@ const App = () => {
     });
   };
 
-  //reset
   const resetClickHandler = () => {
     setCalc({
       ...calc,
